@@ -1,8 +1,9 @@
 aula 3 - Estrutura básica de um programa em c++
 aula 4 - Variáveis em c++
-aulas 5 - Declarações múltiplas de variáveis, Constantes
+aula 5 - Declarações múltiplas de variáveis, Constantes
 aula 6 - Variáveis Globais e Locais, Operadores matemáticos
 aula 7 - Incremento e Decremento de Variáveis, Operadores pós e pré-fixados
 aula 8 - Invertendo valores de variáveis
 aula 9 - Comando de decisão IF ELSE- Parte 1
 aula 10 - Comando de decisão IF ELSE e comando Goto - Parte 2
+aula 11 - Operadores AND, OR, NOT

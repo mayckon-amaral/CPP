@@ -1,0 +1,95 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+    int num;
+
+    //ex 1:
+
+       /* Operador AND / && / E
+        
+        So vai retorna VERDADEIRO para o if se todas as variaveis de entrada ou condições forem VERDADEIRAS
+
+        1 2 3 4 5 6 7 8 9 10
+
+        > 4 e < 7
+        
+
+    
+    num = 6;
+
+    if (num > 4 && num < 7){
+        cout << "\n\nValor aceito\n";
+    }else{
+        cout << "Nao aceito";
+    }
+    */
+
+
+
+    //ex 2:
+
+        /* Operador OR / || / ou 
+
+        Retornara VERDADEIRO quando estiver uma variavel de entrada ou condição verdadeira no meio de outras condições falsas.
+        
+        1 2 3 4 5 6 7 8 9 10
+        < 3 ou > 8
+
+   num = 6;
+
+   if (num < 3 || num > 8 ){
+    cout << "\n\nValor aceito\n";
+    }else{
+        cout << "Nao aceito";
+    }*/
+
+
+    //ex 3:
+
+        /*1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+        3 a 6
+        10 a 14
+        16 a 19
+
+    num = 12;
+
+    // 3 testes de condições
+    if (  (num >= 3 && num <= 6 ) || (num > 9 && num < 15) || (num > 15 && num < 20)  ){
+    cout << "\n\nValor aceito\n";
+    }else{
+        cout << "Nao aceito";
+    }*/
+
+
+    
+
+    //ex 4:
+
+        /* Operador NOT / ! / NÃO*/ 
+
+    /*
+    1 = verdadeiro / true
+    0 = falso / false
+
+    if(num == 1)    /   if(num)
+    if(num == 0)    /   if(!num)
+    if(num != 1)    /   if(!num)
+    */
+
+
+    num = 0;
+
+    if (num){
+        cout << "\n\nVou ao clube\n";
+    }else{
+        cout << "\n\nVou ao cinema\n";
+    }
+
+
+
+    return 0;
+}

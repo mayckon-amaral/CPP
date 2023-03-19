@@ -7,3 +7,4 @@ aula 8 - Invertendo valores de variáveis
 aula 9 - Comando de decisão IF ELSE- Parte 1
 aula 10 - Comando de decisão IF ELSE e comando Goto - Parte 2
 aula 11 - Operadores AND, OR, NOT
+aula 12 - Operador ternário
